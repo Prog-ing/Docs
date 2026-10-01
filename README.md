@@ -1,2 +1,1 @@
-# Prog2
-second part
+Our-team.md
